@@ -10,8 +10,8 @@ up "wins" the call.
 Do the following:
 
     cd ~/OpenVBX/plugins
-    wget http://github.com/zostay/OpenVBX-Plugin-SimultaneousDial/OpenVBX-Plugin-SimultaneousDial-0.01.tar.gz
-    tar zxf OpenVBX-Plugin-SimultaneousDial-0.01.tar.gz
+    wget http://github.com/zostay/OpenVBX-Plugin-SimultaneousDial/tarball/OpenVBX-Plugin-SimultaneousDial-0.01
+    tar zxf zostay-OpenVBX-Plugin-SimultaneousDial-OpenVBX-Plugin-SimultaneousDial-0.01-0-ga022727.tar.gz
 
 Now, go into your flow diagrams and start using it.
 
