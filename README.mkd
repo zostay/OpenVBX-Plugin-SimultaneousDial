@@ -1,0 +1,26 @@
+# README
+
+This plugin adds a "Simultaneous Dial" applet. This works exactly like the
+built-in Dial applet (as of this writing), except that group dialing is
+performed with all members being dialed simultaneously. The first person to pick
+up "wins" the call.
+
+# INSTALLATION
+
+Do the following:
+
+    cd ~/OpenVBX/plugins
+    wget http://github.com/zostay/OpenVBX-Plugin-SimultaneousDial/OpenVBX-Plugin-SimultaneousDial-0.01.tar.gz
+    tar zxf OpenVBX-Plugin-SimultaneousDial-0.01.tar.gz
+
+Now, go into your flow diagrams and start using it.
+
+Done.
+
+# AUTHOR
+
+This is heavily derived from the built-in Dial applet that comes with OpenVBX. This was developed by Twilio.
+
+The rest has been done by:
+
+    Andrew Sterling Hanenkamp <hanenkamp@cpan.com>

@@ -1,0 +1,6 @@
+{
+	"name" : "Simultaneous Dial",
+	"description" : "Dial all the numbers of a group and then or send them to voicemail if none can be reached.",
+    "type" : "voice",
+	"order" : 1
+}
