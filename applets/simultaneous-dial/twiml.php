@@ -148,7 +148,8 @@ while($keepLooping)
 				// who's calling because we don't really know anything.
 				$dial->addNumber($numbers[0]);
 			}
-
+ 
+      $state[DIAL_ACTION] = DIAL_STATE_NO_ANSWER;
 			break;
 		case DIAL_STATE_HANGUP:
 			$response->addHangup();
